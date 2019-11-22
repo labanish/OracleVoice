@@ -1,0 +1,74 @@
+.header{
+    background-image: url(/headerbg.png);
+    border-radius: 6px 6px 0px 0px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    display: block;
+    width: 100%;
+    background: #57504a;
+    height: 50px;
+    padding: 3px;
+    -webkit-box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.11);
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.11);
+}
+.header .avatar{
+    position: absolute;
+    display: block;
+    background: rgba(20, 0, 0, 0.12) no-repeat center center;
+    background-size: 80%;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    -webkit-align-self: stretch;
+    align-self: stretch;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    top: 4px;
+    left: 4px;
+}
+
+.header-title{
+    padding: 0 12px;
+    font-weight: 500;
+    color: white;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: center;
+    font-size: 16px;
+}
+
+.header-sub-title{
+    color: white;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.header .button{
+    top: 8px;
+    position: absolute;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: block;
+    width: 35px;
+    height: 35px;
+    padding: 2px;
+    cursor: pointer;
+
+}
+.header .button.right{
+    right: 3px;
+}
+.header .button .icon{
+    background-size: 15px;
+    width: 15px;
+    height: 15px;
+}

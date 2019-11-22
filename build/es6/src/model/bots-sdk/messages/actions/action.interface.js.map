@@ -1,0 +1,1 @@
+{"version":3,"file":"action.interface.js","sourceRoot":"","sources":["../../../../../../../src/model/bots-sdk/messages/actions/action.interface.ts"],"names":[],"mappings":"AAAA;;GAEG;AAOH,MAAM,oBAAoB,GAAG;IACzB,QAAQ,EAAE,UAAU;IACpB,OAAO,EAAE,SAAS;IAClB,KAAK,EAAE,OAAO;IACd,gBAAgB,EAAE,iBAAiB;IACnC,KAAK,EAAE,OAAO;IACd,IAAI,EAAE,MAAM;CACf,CAAC;AACF,OAAO,EAAoB,oBAAoB,EAAC,CAAC"}

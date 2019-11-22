@@ -1,0 +1,1 @@
+{"version":3,"file":"action-payload.interface.js","sourceRoot":"","sources":["../../../../../../../src/model/common/payloads/action-payload/action-payload.interface.ts"],"names":[],"mappings":"AAAA;;GAEG;AAQH,MAAM,WAAW,GAAG;IAChB,SAAS,EAAE,UAAU;IACrB,IAAI,EAAE,MAAM;IACZ,GAAG,EAAE,KAAK;IACV,QAAQ,EAAE,UAAU;CACvB,CAAC;AAsBF,OAAO,EAAiB,WAAW,EAAC,CAAC"}

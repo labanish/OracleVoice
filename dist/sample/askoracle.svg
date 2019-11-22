@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.1804771,21.2944146 L12.8195229,21.2879734 C9.96755153,21.2879734 7.65190218,18.8660797 7.65190218,15.8773598 C7.65190218,12.8886399 9.96755153,10.4667461 12.8195229,10.4667461 L19.1804771,10.4667461 C22.0387581,10.4667461 24.3480978,12.8886399 24.3480978,15.8773598 C24.3480978,18.8660797 22.0387581,21.2944146 19.1804771,21.2944146 Z M19.1617841,12.3775112 L13.1532385,12.3775112 C11.3310116,12.3775112 9.85706009,13.9487407 9.85706009,15.8805804 C9.85706009,17.8188595 11.3310116,19.3836496 13.1532385,19.3836496 L19.1617841,19.3836496 C20.984011,19.3836496 22.4579625,17.8188595 22.4579625,15.8805804 C22.4579625,13.9487407 20.984011,12.3775112 19.1617841,12.3775112 Z" id="path-1"></path>
+        <filter x="-38.9%" y="-69.3%" width="177.9%" height="220.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox-Copy-10" transform="translate(-13.000000, -229.000000)">
+            <g id="Group" transform="translate(13.000000, 229.000000)">
+                <path d="M4,0 L28,0 C30.209139,-4.05812251e-16 32,1.790861 32,4 L32,28 C32,30.209139 30.209139,32 28,32 L4,32 C1.790861,32 2.705415e-16,30.209139 0,28 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle-Copy-6" fill="#DD5D49" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) "></path>
+                <g id="O-Symbol-Copy-2" transform="translate(16.000000, 15.880580) rotate(-180.000000) translate(-16.000000, -15.880580) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

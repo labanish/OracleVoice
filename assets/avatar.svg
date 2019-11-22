@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>avatar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.4288402,22 L12.5711598,21.9928614 C9.49647819,21.9928614 7,19.3087448 7,15.9964307 C7,12.6841166 9.49647819,10 12.5711598,10 L19.4288402,10 C22.5103242,10 25,12.6841166 25,15.9964307 C25,19.3087448 22.5103242,22 19.4288402,22 Z M19.5112362,11.7142857 L12.4887638,11.7142857 C10.3590407,11.7142857 8.63636364,13.6365546 8.63636364,16 C8.63636364,18.3713235 10.3590407,20.2857143 12.4887638,20.2857143 L19.5112362,20.2857143 C21.6409593,20.2857143 23.3636364,18.3713235 23.3636364,16 C23.3636364,13.6365546 21.6409593,11.7142857 19.5112362,11.7142857 Z" id="path-1"></path>
+        <filter x="-36.1%" y="-62.5%" width="172.2%" height="208.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="avatar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#3E3935" x="0" y="0" width="32" height="32"></rect>
+        <g id="O-Symbol-Copy-2" transform="translate(16.000000, 16.000000) rotate(-180.000000) translate(-16.000000, -16.000000) ">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FCFBFA" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <ellipse id="Oval" fill="#FFFFFF" cx="12.6" cy="16" rx="1.6" ry="1.5"></ellipse>
+        <ellipse id="Oval-Copy" fill="#FFFFFF" cx="19.4" cy="16" rx="1.6" ry="1.5"></ellipse>
+    </g>
+</svg>
