@@ -1,11 +1,11 @@
 html, body, .container{
     height: 100%;
     width: 100%;
-    background-image: url(/mainbg.png);
+    background-image: url(/bg.PNG);
     background-size: cover;
 }
 .navbar-brand{
-    color:#454545;
+    color:#a6e7ed;  /**454545 **/
     float: none;
     font-size: 35px;
     display: block;

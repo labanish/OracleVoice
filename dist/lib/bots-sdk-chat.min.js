@@ -1,5 +1,5 @@
 /**
-* Copyright (c) 2019, Oracle and/or its affiliates. All rights reserved.
+* Copyright (c) 2020, Oracle and/or its affiliates. All rights reserved.
  * Oracle Chat Widget Web - Oracle bot chat client example, Release: 2.0.1
 */
 

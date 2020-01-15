@@ -55,7 +55,7 @@ module.exports = function (grunt) {
         connect: {
             server: {
                 options: {
-                    port: 3001,
+                    port: 3002,
                     base: './dist/sample',
                     keepalive: true
                 }
